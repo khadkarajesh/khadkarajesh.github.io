@@ -1,4 +1,4 @@
-baseURL = 'https://www.rajeshkhadka.com/'
+baseURL = 'https://www.rajeshkhadka.com'
 languageCode = 'en-us'
 title = 'Rajesh Khadka'
 theme = 'hugo-ink'
