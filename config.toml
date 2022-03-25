@@ -17,7 +17,7 @@ disqusShortname = "ink-demo"
 subtitle = "Software Engineer (Backend, Data Science, Machine Learning)"
 
 # Optional 64x64 avatar image.
-avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+avatar = "https://media-exp1.licdn.com/dms/image/C5603AQFCMJoD3L8qtQ/profile-displayphoto-shrink_800_800/0/1647364546593?e=1653523200&v=beta&t=c_hXUH3ddhBFRcTXquj3iAPTbuk9DSs-Tkw2oYjVaaI"
 
 # Content types to disable Disqus on.
 disableDisqusTypes = ["page"]
